@@ -1,5 +1,5 @@
 {
-  "name": "list-directory-contents",
+  "name": "list-dir-contents",
   "version": "0.1.0",
   "main": "dist/index.js",
   "repository": "git@github.com:chrisabrams/list-directory-contents.git",
